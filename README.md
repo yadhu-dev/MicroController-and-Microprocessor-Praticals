@@ -29,7 +29,7 @@ To get started with the projects in this repository, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yadhu-dev/Microcontroller-and-Microprocessor-Practicals.git
+   https://github.com/yadhu-dev/MicroControiller-and-Microprocessor-Praticals/tree/main
 
 
 ## Created By
