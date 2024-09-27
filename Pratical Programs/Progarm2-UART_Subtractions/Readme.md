@@ -1,6 +1,6 @@
 # Schematic Diagram
 
-- This is the schematic Diagram of program1 from proteus
+- This is the schematic Diagram of program2 from proteus
 
   <img src="Program2.png">
 
