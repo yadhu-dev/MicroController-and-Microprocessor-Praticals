@@ -33,6 +33,14 @@ To get started with the projects in this repository, follow these steps:
    https://github.com/yadhu-dev/MicroControiller-and-Microprocessor-Praticals/tree/main
 
 
+  2. **UART Header Files :**
+
+- The **`uart.h`** and **`uart.c`** files are located in the **UART Headerfiles** folder.
+- These files contain essential functions for UART communication, allowing you to send and receive data easily.
+- Make sure to include these files in your project to utilize the UART functionalities effectively.
+
+
+
 ## Created By
 
 **Yadhul Mohan**  
