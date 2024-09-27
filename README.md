@@ -30,7 +30,7 @@ To get started with the projects in this repository, follow these steps:
 1. **Clone the Repository:**
    You can access the repository directly using this link: 
    ```bash
-   https://github.com/yadhu-dev/MicroControiller-and-Microprocessor-Praticals/tree/main
+   https://github.com/yadhu-dev/MicroController-and-Microprocessor-Praticals/tree/main
 
 
   2. **UART Header Files :**
