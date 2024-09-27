@@ -8,13 +8,13 @@
 
 - step 1==> Create a Hex file and Set the Clock frequency
   ### How to Create a Hex file and Set the Clock frequency
-    - **_Step 1 ==> In your Keil C program ==> Right click on Target1 (which is on the left side bar_**
+    - **_Step 1 ==> In your Keil C program ==> Right click on Target1 (which is on the left side bar)_**
       
-    - **_Step 2 ==> Select first one in the option "Options for Targets Target1"_**
+    - **_Step 2 ==> Select first one in the option `"Options for Targets Target1"`_**
       
-    - **_Step 3 ==> Select "OUTPUT". There you can see "Create HEX File", Enable it_**
+    - **_Step 3 ==> Select "OUTPUT". There you can see `"Create HEX File"`, Enable it_**
       
-    - **_Step 4 ==> Then Select "TARGET" from the above option (Left side of the OUTPUT), there you can see "Xtal (MHz)" to `11.0592` MHz and select OK_**
+    - **_Step 4 ==> Then Select "TARGET" from the above option (Left side of the OUTPUT), there you can see `"Xtal (MHz)"` to `11.0592` MHz and select OK_**
       
     - **_Step 5 ==> Come back to your program, Then ``Build Target files`` Your Hex files will be created_**
       
