@@ -46,6 +46,7 @@ To get started with the projects in this repository, follow these steps:
 **Yadhul Mohan**  
 B.Sc. in Computer Science and Electronics  
 Kristu Jayanti College, Autonomous, Bengaluru, India
+
 Contact : **Through [My Gmail ID](mailto:yadhulmohan21@gmail.com) / My [Linkedin](https://www.linkedin.com/in/yadhulmohan) Account**
 ```
   https://www.linkedin.com/in/yadhulmohan
