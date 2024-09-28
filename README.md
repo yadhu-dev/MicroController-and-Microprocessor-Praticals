@@ -21,7 +21,7 @@ This repository serves as a comprehensive guide for students to enhance their un
   - Arduino IDE
 - **Simulation Tools:**
   - Proteus
-  - Tinkercad
+  - 
 - **Programming Languages:** C, Assembly
 
 ## Getting Started
