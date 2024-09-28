@@ -3,7 +3,8 @@
 - This is the schematic Diagram of program1 from proteus
 
   <img src="Schematic_images/prg61.png">
-  -----------------------
+-----------------------
+-----------
 ## Output
   <img src="Schematic_images/prg62.png">
 
