@@ -44,13 +44,13 @@ void main() {
             Printf("Division: ");
             SendByte2PC(num1 / num2);
         }
-				Printf("");
-				Printf("");
+	Printf("");
+	Printf("");
         Printf("switches( OFF and OFF ) ===> Addition Operation");
-				Printf("switches( OFF and ON ) ===> Subtraction Operation");
-				Printf("switches( ON and OFF ) ===> Multiplication Operation");
-				Printf("switches( ON and ON ) ===> DIvision Operation");
-				Printf("");
+	Printf("switches( OFF and ON ) ===> Subtraction Operation");
+	Printf("switches( ON and OFF ) ===> Multiplication Operation");
+	Printf("switches( ON and ON ) ===> DIvision Operation");
+	Printf("");
 
     }
 }
