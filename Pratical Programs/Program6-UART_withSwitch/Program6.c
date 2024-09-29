@@ -6,15 +6,22 @@ sbit s2 = P1^1;
 unsigned char current_state_s1;
 unsigned char current_state_s2;
 
+void user_Instruction(){
+	Printf("");
+	Printf("");
+        Printf("switches( OFF and OFF ) ===> Addition Operation");
+	Printf("switches( OFF and ON ) ===> Subtraction Operation");
+	Printf("switches( ON and OFF ) ===> Multiplication Operation");
+	Printf("switches( ON and ON ) ===> DIvision Operation");
+	Printf("");
+}
+
+
 void main() {
     unsigned char num1, num2;
     SerialInit();
-    
-	  Printf("switches( OFF and OFF ) ===> Addition Operation");
-	  Printf("switches( OFF and ON ) ===> Subtraction Operation");
-	  Printf("switches( ON and OFF ) ===> Multiplication Operation");
-	  Printf("switches( ON and ON ) ===> DIvision Operation");
-	  Printf("");
+
+    user_Instruction();
     Printf("Enter any number: ");
     num1 = ReadBytePC();
     
@@ -44,13 +51,8 @@ void main() {
             Printf("Division: ");
             SendByte2PC(num1 / num2);
         }
-	Printf("");
-	Printf("");
-        Printf("switches( OFF and OFF ) ===> Addition Operation");
-	Printf("switches( OFF and ON ) ===> Subtraction Operation");
-	Printf("switches( ON and OFF ) ===> Multiplication Operation");
-	Printf("switches( ON and ON ) ===> DIvision Operation");
-	Printf("");
+
+	user_Instruction();
 
     }
 }
