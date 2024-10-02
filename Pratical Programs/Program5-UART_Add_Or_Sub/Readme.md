@@ -2,7 +2,7 @@
 
 - This is the schematic Diagram of program5 from proteus
 
-  <img src="prg5_sc.png">
+  <img src="Pro5_sc.png">
 
 -----------------------------------------------
 - OUTPUT
