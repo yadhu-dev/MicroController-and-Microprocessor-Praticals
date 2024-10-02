@@ -8,6 +8,7 @@
   - When your Entering values ...Type two digit..
     if it is 0 to 9
        **==> then Type `01` or `06` or `08` etc**
+ - Here you actually Entering the Hexadeciml Values..
 
 ## How to Upload Your program in Proteus
 
