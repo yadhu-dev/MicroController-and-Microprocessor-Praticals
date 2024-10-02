@@ -2,12 +2,12 @@
 
 - This is the schematic Diagram of program5 from proteus
 
-  <img src="Prg5_sc.png">
+  <img src="prg5_sc.png">
 
 -----------------------------------------------
 - OUTPUT
 
-   <img src="prg5_opp.png">
+   <img src="prg5_op.png">
 
 ## Note here 
   - When your Entering values ...Type two digit..
