@@ -7,7 +7,7 @@
 -----------------------------------------------
 - OUTPUT
 
-   <img src="Prg5_op.png">
+   <img src="prg5_opp.png">
 
 ## Note here 
   - When your Entering values ...Type two digit..
