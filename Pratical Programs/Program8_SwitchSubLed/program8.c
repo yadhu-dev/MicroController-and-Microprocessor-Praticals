@@ -3,6 +3,6 @@
 void main(){
 	
 	while(1){
-		P2 = P0+P1;
+		P2 = P0-P1;
 }
 	}
