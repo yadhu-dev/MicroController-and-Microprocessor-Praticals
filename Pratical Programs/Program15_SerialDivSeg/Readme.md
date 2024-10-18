@@ -2,7 +2,7 @@
 
 - This is the schematic Diagram of program1 from proteus
 
-  <img src="Prog15.png">
+  <img src="prog15.png">
 
 ## Note here 
   - When your Entering values ...Type two digit
