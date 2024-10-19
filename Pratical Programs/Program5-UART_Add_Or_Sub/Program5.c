@@ -16,6 +16,7 @@ void ask(){
 void main(){
 	
 	SerialInit();
+	current_sw_state = sw;
 	sw = 0;
 	
 	ask();
@@ -36,6 +37,7 @@ void main(){
 	Printf("Change the mode of the switch ");
 	
 	while( sw == current_sw_state);
+	current_sw_state = sw;
 	ask();
 	
  }
