@@ -14,3 +14,9 @@
 7. **Wait for Switch State Change** and update operation mode accordingly.
 8. **Repeat Steps 4 to 7** for new input.
 9. **End Program** (infinite loop keeps the program running).
+
+-----------------------
+
+# Flowchart
+
+<img src="flow5.png" >
