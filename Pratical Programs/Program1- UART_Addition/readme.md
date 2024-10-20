@@ -44,7 +44,7 @@
 
     - **_Step 3 ==> Also below your Program Files there is `Clock Frequency` set it as_**
          ```
-           11.0592 MHz
+           11.0592MHz
          ```
          
       - **_Step 4 ==> CLick Ok_**
