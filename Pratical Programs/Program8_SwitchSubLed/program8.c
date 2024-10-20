@@ -6,6 +6,6 @@
 void main(){
 	
 	while(1){
-		led = sw1 +sw2;
+		led = sw1 - sw2;
 }
 	}
