@@ -3,9 +3,7 @@
 This program is only for reference and demonstrates a simple counter logic that counts down from **9 to 0** and then repeats continuously in a loop.
 
 
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="mp4">
-</video>
+https://github.com/user-attachments/assets/bfb1e47b-c369-4d42-90d4-946b2dc5e5da
 
 ## Program Description
 
