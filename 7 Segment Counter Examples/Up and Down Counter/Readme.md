@@ -4,7 +4,8 @@ This program is only for reference and demonstrates a simple counter logic that 
 
 ## Demo Video
 
-[![Watch the demo video](assets/video-thumbnail.png)](assets/demo.mp4)
+
+https://github.com/user-attachments/assets/ad54f79a-0e1b-4760-a5f1-6dbe55ca5304
 
 ## Program Description
 
