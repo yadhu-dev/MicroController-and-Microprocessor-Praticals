@@ -4,7 +4,7 @@ This program is only for reference and demonstrates a simple counter logic that 
 
 
 <video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="mp4">
 </video>
 
 ## Program Description
