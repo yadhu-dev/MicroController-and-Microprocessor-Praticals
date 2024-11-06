@@ -3,7 +3,7 @@
 This program, created for the 8051 microcontroller, demonstrates basic input and output operations using UART (Universal Asynchronous Receiver-Transmitter) for communication between the microcontroller and a computer. The program enables the user to define an array size, input characters into the array, and then counts how many vowels (a, e, i, o, u, A, E, I, O, U) are present in the array.
 -----------------
 # OUTPUT
-![prg5_op](https://github.com/user-attachments/assets/d5ed5d1b-6e68-41bd-9817-c35a6513228a)
+![Screenshot 2024-11-06 214615](https://github.com/user-attachments/assets/e21d0d1f-07a6-482e-8891-79db7c91a9d5)
 
 
 ---------
